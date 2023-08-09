@@ -9,8 +9,8 @@
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://github.com/iamcelestino/order-summary-component-main.git)
+- Live Site URL: [live site URL](https://iamcelestino.github.io/order-summary-component-main/)
 
 ## My process
 
